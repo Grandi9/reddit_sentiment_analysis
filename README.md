@@ -2,6 +2,7 @@
 
 User Vader for Sentiment Analysis
 
+#For reddit API - https://medium.com/@RareLoot/using-pushshifts-api-to-extract-reddit-submissions-fb517b286563
 
 
 
