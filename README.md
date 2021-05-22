@@ -2,7 +2,9 @@
 
 ## Use Vader for reddit Sentiment Analysis
 
-#For reddit API - https://medium.com/@RareLoot/using-pushshifts-api-to-extract-reddit-submissions-fb517b286563
+For scarping the data, i am planning to use - https://github.com/pushshift/api  
+
+For reddit API - https://medium.com/@RareLoot/using-pushshifts-api-to-extract-reddit-submissions-fb517b286563
 
 
 
